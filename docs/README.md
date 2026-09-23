@@ -18,11 +18,11 @@ Esta pasta reúne material de apoio ao código-fonte disponível nas pastas
 
 | Arquivo | Descrição |
 |---------|-----------|
-| `diagrama-metodo.png` | Diagrama geral do método CDC-P (tese + fundamentos + supervisão) |
-| `diagrama-relogio.png` | O relógio com bisturi que ilustra a capa do livro |
-| `diagrama-sete-camadas.png` | Diagrama das sete camadas de proteção |
-| `diagrama-despachador.png` | Fluxo do despachador de ordem fixa |
-| `timing.png` | Diagrama de tempo de uma tarefa periódica |
+| `diagrama-metodo.pdf` | Diagrama geral do método CDC-P (tese + fundamentos + supervisão) |
+| `diagrama-relogio.pdf` | O relógio com bisturi que ilustra a capa do livro |
+| `diagrama-sete-camadas.pdf` | Diagrama das sete camadas de proteção |
+| `diagrama-despachador.pdf` | Fluxo do despachador de ordem fixa |
+| `timing.pdf` | Diagrama de tempo de uma tarefa periódica |
 | `apresentacao.pdf` | Slides de apresentação do método (opcional) |
 
 *Os arquivos serão adicionados conforme forem sendo produzidos.*
