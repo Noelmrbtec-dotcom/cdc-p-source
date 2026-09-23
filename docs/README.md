@@ -117,8 +117,7 @@ repositório para mais detalhes.
 ## 📬 Contato
 
 - **Autor:** Marcos Roberto Braga
-- **LinkedIn:** [seu perfil]
-- **E-mail:** [seu e-mail]
+- **E-mail:** [noelmrb_tec@yahoo.com]
 
 ---
 
