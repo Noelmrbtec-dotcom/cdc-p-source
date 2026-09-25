@@ -71,11 +71,7 @@ prioridade (URG-S, preempção, kernel, aplicação).
 ## 🎨 Como os diagramas foram gerados
 
 Os diagramas originais foram produzidos em **TikZ** (dentro do LaTeX) e 
-exportados como imagens PNG para uso nesta documentação.
-
-O código-fonte TikZ está disponível no arquivo `capa.tex` do projeto 
-LaTeX original (não incluído neste repositório, mas descrito em detalhe 
-no livro).
+exportados como pdf para uso nesta documentação.
 
 ---
 
