@@ -15,8 +15,6 @@ Implementação moderna do CDC-P para o microcontrolador **CH32V003**
 | Arquivo | Descrição |
 |---------|-----------|
 | `main.c` | Código principal (despachador, tarefas, ISRs) |
-| `main.h` | Defines e configurações gerais |
-| `hardware.h` | Mapeamento de pinos e configuração de hardware |
 | `CH32V003_IO_V2.h` | Biblioteca de I/O |
 | `CH32V003_USART_V4.h` | Biblioteca de USART (com DMA + IDLE) |
 | `CH32V003_SYSTICK_V3.h` | Biblioteca de SysTick |
