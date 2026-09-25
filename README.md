@@ -47,6 +47,13 @@ O código é explicado em detalhe no livro. Os capítulos mais relevantes são:
 - **Apêndice A** — Código completo para PIC16F628A
 - **Apêndice B** — Código completo para CH32V003
 
+## 📖 Sobre o livro
+
+Este código é parte do livro **CDC-P: Um Executivo Determinístico Autônomo**.
+
+📄 PDF LIVRO-CDC-P: [[link da Hotmart](https://go.hotmart.com/K107748750A)]
+💻 LinkedIn: [[link do post](https://lnkd.in/p/dEzXg9fM)]
+
 ## 📝 Licença
 
 Este código é disponibilizado sob a licença [MIT].
