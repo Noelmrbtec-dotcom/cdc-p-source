@@ -107,7 +107,7 @@ Descrição: RTOS compacto, eficiente e AUTOCONSCIENTE com reflexos situacionais
 #define limite_buffer 1                  //Limite de dados recepcionados(Buffer circular).
 #define sistema_em_pane 5                //Definição de sistema em pane operacional!!!!.
 //***************************************Variáveis*************************************************************
-char dado[limite_buffer];                //Guarda dados recepcionado via RB0.
+char dado[limite_buffer];                //Guarda dados recepcionado via RB1.
 char rx_error = 0;                       //Guardo caracter de erro da serial!!!
 int8 index_rx = 0;                       //Indexador para buffer de rx.
 int8 index_tx = 0;                       //Indexador para envio de ponteiro_texto(byte a byte).
